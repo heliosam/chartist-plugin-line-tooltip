@@ -1,0 +1,14 @@
+{
+  "name": "chartist-plugin-line-tooltip",
+  "version": "1.0.0",
+  "description": "Plugin for Chartist.js Line Charts",
+  "main": "js/chartist-plugin-line-tooltip.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/heliosam/chartist-plugin-line-tooltip.git"
+  },
+  "bugs": {
+    "url": "https://github.com/heliosam/chartist-plugin-line-tooltip/issues"
+  },
+  "homepage": "https://github.com/heliosam/chartist-plugin-line-tooltip#readme"
+}
